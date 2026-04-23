@@ -30,7 +30,9 @@ Bộ vi xử lý được thiết kế theo sơ đồ Datapath dưới đây. C�
 Quá trình kiểm tra (Verification) được thực hiện chặt chẽ. Dưới đây là kết quả mô phỏng trên **GTKWave**, cho phép quan sát chi tiết sự thay đổi của các tín hiệu quan trọng như `clk`, `pc`, `instruction`, và dữ liệu các thanh ghi qua từng chu kỳ hoạt động.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1c1b0052-49da-446a-baa3-e7339beb6844" alt="GTKWave Simulation Result" width="100%">
+ 
+  <img width="1851" height="859" alt="image" src="https://github.com/user-attachments/assets/0a78c332-c29a-4911-b209-540376790363" />
+
 </p>
 
 ---
